@@ -1,4 +1,4 @@
-# getting_and_cleaning_data
+# Cleaning Human Activity Recognition Using Smartphones Dataset
 
 This repository contains the R script run_analysis.R that performs an analysis on human activity recognition data. The data is collected from the accelerometers of the Samsung Galaxy S smartphone worn by 30 subjects performing six different activities. The raw data is processed into a clean, tidy dataset containing the average of each measurement for each activity and each subject.
 
